@@ -1,4 +1,5 @@
 mod ast_visitor;
+mod autofix;
 mod builtins;
 mod cache;
 pub mod check_ast;
